@@ -14,12 +14,10 @@
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br>
   <img aligni="center" alt="Jonathan-Js" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img aligni="center" alt="Jonathan-Ts" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img aligni="center" alt="Jonathan-C#" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img aligni="center" alt="Jonathan-Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img aligni="center" alt="Jonathan-Java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img aligni="center" alt="Jonathan-NetCore" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img aligni="center" alt="Jonathan-Angular" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img aligni="center" alt="Jonathan-Html5" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img aligni="center" alt="Jonathan-Css" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 <img aligni="center" alt="Jonathan-MySql" heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
