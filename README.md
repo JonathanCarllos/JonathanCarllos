@@ -76,26 +76,6 @@
 
 ---
 
-## 📈 Atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanCarllos&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/JonathanCarllos/JonathanCarllos/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="center">
