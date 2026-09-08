@@ -1,148 +1,123 @@
-# 👨‍💻 Jonathan Carlos
+<div align="center">
 
-### .NET Developer | C# | ASP.NET Core | Web APIs | SQL Server
+# 👋 Olá, eu sou Jonathan Carlos
 
-Olá! Sou **Jonathan Carlos**, desenvolvedor de software com foco no ecossistema **.NET e C#**, apaixonado por tecnologia, resolução de problemas e criação de soluções eficientes e escaláveis.
+### 💻 .NET Developer | C# | ASP.NET Core | Web APIs
 
-Tenho experiência no desenvolvimento de **APIs RESTful, aplicações web, integrações entre sistemas e sistemas corporativos**, trabalhando também com bancos de dados relacionais e tecnologias modernas de Front-end.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+.NET;Especialista+em+Web+API;ASP.NET+Core;SQL+Server+%7C+React;Sempre+aprendendo+novas+tecnologias">
+
+</div>
 
 ---
 
 ## 🚀 Sobre mim
 
-* 💻 Desenvolvedor com foco em **C# e .NET**
-* 🔧 Desenvolvimento de **APIs RESTful com ASP.NET Core**
-* 🗄️ Experiência com **SQL Server e MySQL**
-* 🌐 Desenvolvimento de aplicações Web com **ASP.NET Core MVC**
-* ⚛️ Experiência com **React e React Native**
-* 🔄 Integração entre sistemas e consumo de APIs
-* 🐳 Conhecimentos em **Docker**
-* ☁️ Experiência com **Azure**
-* 📚 Sempre estudando e buscando evoluir profissionalmente
+💙 Apaixonado por desenvolvimento de software
 
-Meu objetivo é continuar evoluindo tecnicamente, trabalhando com boas práticas de desenvolvimento e construindo soluções que gerem valor para usuários e empresas.
+🎯 Foco em Back-end utilizando .NET
+
+⚡ Desenvolvimento de APIs REST
+
+☁️ Azure • Docker • SQL Server
+
+📚 Sempre estudando novas tecnologias
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 💻 Stack
 
-### 💻 Back-end
+<p align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,react,ts,js,html,css,bootstrap,docker,git,github,azure,mysql"/>
 
-### 🌐 Front-end
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-### 🗄️ Banco de Dados
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### ⚙️ Ferramentas e Cloud
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+</p>
 
 ---
 
-## 🏗️ O que desenvolvo
+## 📊 GitHub
 
-```text
-┌──────────────────────────────────────────┐
-│              DESENVOLVIMENTO             │
-├──────────────────────────────────────────┤
-│                                          │
-│  🔹 APIs RESTful                         │
-│  🔹 ASP.NET Core MVC                     │
-│  🔹 Sistemas corporativos                │
-│  🔹 Integrações entre sistemas           │
-│  🔹 CRUDs e regras de negócio             │
-│  🔹 Autenticação e autorização            │
-│  🔹 Entity Framework Core                 │
-│  🔹 SQL Server / MySQL                   │
-│  🔹 Aplicações Web                        │
-│  🔹 Aplicações Mobile                     │
-│                                          │
-└──────────────────────────────────────────┘
-```
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JonathanCarllos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanCarllos&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=JonathanCarllos&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📌 Principais conhecimentos
+## 🏆 GitHub Trophies
 
-* **C# / .NET**
-* **ASP.NET Core**
-* **ASP.NET Core MVC**
-* **Web API**
-* **Entity Framework Core**
-* **LINQ**
-* **REST**
-* **JWT / Authentication**
-* **SQL Server**
-* **MySQL**
-* **React**
-* **React Native**
-* **JavaScript / TypeScript**
-* **Git / GitHub**
-* **Docker**
-* **Azure**
-* **Bootstrap**
-* **Material UI**
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JonathanCarllos&theme=tokyonight&margin-w=10&no-frame=true&column=7"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Tecnologias
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanCarllos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanCarllos&layout=compact&langs_count=8&theme=dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanCarllos&theme=dark&hide_border=false"/>
+| Back-end | Front-end | Banco | Cloud |
+|-----------|-----------|--------|--------|
+| .NET | React | SQL Server | Azure |
+| ASP.NET Core | React Native | MySQL | Docker |
+| Entity Framework | TypeScript | LINQ | Git |
 
 </div>
 
 ---
 
-## 📫 Vamos conversar?
+## 📈 Atividade
 
-Estou sempre aberto a **novos projetos, oportunidades, networking e troca de conhecimentos**.
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanCarllos&theme=tokyo-night&hide_border=true"/>
 
-📧 **Email:** [jonathan.carllos1994@gmail.com](mailto:jonathan.carllos1994@gmail.com)
+</p>
 
-💼 **LinkedIn:** [linkedin.com/in/jonathancarllos](https://www.linkedin.com/in/jonathancarllos/)
+---
 
-🐙 **GitHub:** [github.com/JonathanCarllos](https://github.com/JonathanCarllos)
+## 🐍 Contributions
 
-</div>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/JonathanCarllos/JonathanCarllos/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="mailto:jonathan.carllos1994@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/jonathancarllos">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JonathanCarllos">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 💡 "Transformando problemas em soluções através da tecnologia."
-
-⭐ Se algum projeto meu foi útil para você, considere deixar uma estrela!
+### 💙 "Transformando ideias em soluções através da tecnologia."
 
 </div>
